@@ -2,6 +2,10 @@
 ![](https://mobile.xupt.edu.cn/res/16543581813740786.jpg)
 ## 题目
 使用 React 实现 Button 和 Card 组件（具体可参考antd）
+## 提交格式
+在当前文件夹下以自己的名字或者代号进行命名自己的文件夹，可使用create-react-app来创建自己的项目
+
+注意你的`.gitignore`文件，不要将`node_modules`文件夹提交
 
 ## 评分标准
 评分主要从以下三个方面进行判断
